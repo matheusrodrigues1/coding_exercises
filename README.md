@@ -17,7 +17,7 @@ Repositório com exercícios resolvidos em Java e Python.
 ## Estatísticas
 
 ### Java
-- HackerRank: 1 exercícios
+- HackerRank: 3 exercícios
 - LeetCode: 0 exercícios
 - beecrowd: 0 exercícios
 
@@ -26,4 +26,4 @@ Repositório com exercícios resolvidos em Java e Python.
 - LeetCode: 0 exercícios
 - beecrowd: 0 exercícios
 
-Última atualização: 03/07/2026
+Última atualização: 22/07/2026
