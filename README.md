@@ -26,4 +26,4 @@ Repositório com exercícios resolvidos em Java e Python.
 - LeetCode: 0 exercícios
 - beecrowd: 0 exercícios
 
-Última atualização: 22/07/2026
+Última atualização: 29/07/2026
